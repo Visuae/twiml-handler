@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><Response><Gather action="/route" numDigits="3" timeout="10"><Say>Welcome to Visuae phone line. Please enter the three digit extension now.</Say></Gather><Say>No input detected. Goodbye.</Say><Hangup /></Response>
